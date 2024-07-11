@@ -1,6 +1,7 @@
 
 # Geography
 ![[Fjaerheim map.png]]
+
 ## Geographical Features
 ### Bodies of Water
 
@@ -23,6 +24,7 @@
 #### Arden
 ### The High Places
 #### High Place Pass
+
 # Government
 Fjaerheim can be described as a feudal monarchy that thrives on seafaring trade and conquest. After ages of division the country was first [[#Unification of Fjaerheim|united]] by [[#Skarling Hoodless]], who ruled for the better part of two decades before being succeeded by [[#Gwynn Wildhair]]. Fjaerheim is currently ruled by [[#Bjorn Bloodless]] after he won [[#The Battle of The High Places]].
 

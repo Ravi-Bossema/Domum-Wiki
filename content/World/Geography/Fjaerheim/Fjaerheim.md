@@ -10,20 +10,6 @@
 ### Mountains
 
 ## Settlements
-### West Fjaerheim
-#### Bräkken
-#### Lokga
-#### Norheim
-#### Skjolden
-### East Fjaerheim
-#### Holmstad
-#### Lillefest
-#### Lillehammer
-#### Uffrith
-### The Frigid Isles
-#### Arden
-### The High Places
-#### High Place Pass
 
 # Government
 Fjaerheim can be described as a feudal monarchy that thrives on seafaring trade and conquest. After ages of division the country was first [[#Unification of Fjaerheim|united]] by [[#Skarling Hoodless]], who ruled for the better part of two decades before being succeeded by [[#Gwynn Wildhair]]. Fjaerheim is currently ruled by [[#Bjorn Bloodless]] after he won [[#The Battle of The High Places]].
@@ -32,31 +18,30 @@ Fjaerheim can be described as a feudal monarchy that thrives on seafaring trade 
 Though the jarls of Fjaerheim outwardly cooperate peacefully, most scheme and conspire against one another to attain ever-greater power.
 
 #### Bjorn Bloodless
-The current King of Fjaerheim and jarl of [[#Uffrith]] since he overthrew Queen Wildhair. Bjorn is a violent and dangerous man who forced many jarls to bend the knee in the aftermath of [[Fjaerheim#The Battle of The High Places|The Battle of The High Places]]. His brash ruthlessness is tempered by the counsel of his uncle, Black Skaldr.
+The current King of Fjaerheim and jarl of Uffrith since he overthrew Queen Wildhair. Bjorn is a violent and dangerous man who forced many jarls to bend the knee in the aftermath of [[Fjaerheim#The Battle of The High Places|The Battle of The High Places]]. His brash ruthlessness is tempered by the counsel of his uncle, Black Skaldr.
 
 #### Black Skaldr
 Uncle of King Bloodless. Skaldr is known for his cunning, resourcefulness, and treachery. He served as Queen Wildhair's council before betraying her to bring his nephew to the throne.
 
 #### Brack-i-Dayn
-Jarl of [[#Arden]]
-
+Jarl of Arden
 #### Cairm Ironhead
-Jarl of [[#Norheim]]
+Jarl of Norheim
 
 #### Caul Shivers
-Former Jarl of [[#Bräkken]]. Slain by [[#Stranger-Come-Knocking]] in [[#The Battle of The High Places]]
+Former Jarl of Bräkken. Slain by [[#Stranger-Come-Knocking]] in [[#The Battle of The High Places]]
 
 #### Durinnri Golden
-Jarl of [[#Lillehammer]]
+Jarl of Lillehammer
 
 #### Feagir Frost Hammer
-Jarl of [[#Lillefest]] and one of the closest allies to Bjorn Bloodless. 
+Jarl of Lillefest and one of the closest allies to Bjorn Bloodless. 
 
 #### Gwynn Wildhair
-Former Queen of Fjaerheim and jarl of [[#Norheim]]. Slain by [[#Bjorn Bloodless]] in [[#The Battle of The High Places]]
+Former Queen of Fjaerheim and jarl of Norheim. Slain by [[#Bjorn Bloodless]] in [[#The Battle of The High Places]]
 
 #### Jolly Yon Cumber
-Jarl of [[#Skjolden]]
+Jarl of Skjolden
 
 #### Red Gwyndala
 The fierce and fearsome daughter of Gwynn Wildhair. She managed to escape after being captured in [[#The Battle of The High Places]], and is now a fugitive on the run from King Bloodless and his forces.
@@ -65,16 +50,16 @@ The fierce and fearsome daughter of Gwynn Wildhair. She managed to escape after 
 Famous and loyal old warrior. Served under [[#Gwynn Wildhair]] as her second but lost his position after [[#The Battle of The High Places]].
 
 #### Skarling Hoodless
-First King of Fjaerheim. United the country, from [[#The High Places]] to [[#The Frigid Isles]], under one banner roughly three decades ago, before being succeeded by [[#Gwynn Wildhair]].
+First King of Fjaerheim. United the country, from The High Places to The Frigid Isles, under one banner roughly three decades ago, before being succeeded by [[#Gwynn Wildhair]].
 
 #### Stranger-Come-Knocking
-Jarl of [[#Bräkken]] and the biggest SOB in Fjaerheim, it his said that his father was a Frost Giant. Stranger-Come-Knocking rules [[#Bräkken]] with an icy fist and a cold demeanour towards the rest of Fjaerheim. 
+Jarl of Bräkken and the biggest SOB in Fjaerheim, it his said that his father was a Frost Giant. Although Stranger-Come-Knocking is originally from The Frigid Isles, he now rules Bräkken, and does so with an icy fist and a cold demeanour towards the rest of Fjaerheim. 
 
 #### Thekkris Steepfield
-Jarl of [[#Lokga]], known for his diplomacy. As the jarl of a trading town Thekkris is a real diplomat, preferring peace and compromise over war and bloodshed. He initially opposed the crowning of [[#Bjorn Bloodless]] but he eventually bent the knee after [[#The Battle of The High Places]]. 
+Jarl of Lokga, known for his diplomacy. As the jarl of a trading town Thekkris is a real diplomat, preferring peace and compromise over war and bloodshed. He initially opposed the crowning of [[#Bjorn Bloodless]] but he eventually bent the knee after [[#The Battle of The High Places]]. 
 
 #### White-eye Hansul
-Jarl of [[#Holmstad]]
+Jarl of Holmstad
 
 ## Law and Order
 Due to the decentralised nature of rule in Fjaerheim, the laws - and their enforcement - can differ greatly depending on which region you are in.
@@ -113,8 +98,9 @@ The short but deadly history of Fjaerheim is mired in bloody infighting, ambitio
 ### Unification of Fjaerheim
 
 ### The Battle of The High Places
-Under the rule of [[#Gwynn Wildhair]], the capital was in the west, in [[#Norheim]]. She strived for peaceful trade with [[The Dominion]] but that didn't sit well in the east of Fjaerheim, which didn't have many places to do trade with. [[#Bjorn Bloodless]] took advantage of this unrest and started a rebellion in the east. First he overthrew the leadership of [[#Holmstad]] by defeating [[#White-eye Hansul]] in the circle, and recruiting him to his cause. Without much resistance he swept through [[#Uffrith]] and [[#Lillefest]], and gained the support of [[#Durinnri Golden]] in his defiance of [[#Gwynn Wildhair|Queen Wildhair]]. 
-In the meantime the Queen gathered her forces in the west. [[#Jolly Yon Cumber]], [[#Thekkris Steepfield]], and [[#Caul Shivers]] all rallied behind her to meet the rebellion head on. The two forces met in [[#High Place Pass]] where their battle raged on for three days and three nights, until, at the dawn of the fourth day, [[#Stranger-Come-Knocking]] arrived from [[#The Frigid Isles]].
-He attacked the left flank and managed to cut through the front lines, outflanking and decimating the Queen's exhausted forces. 
-Both [[#Caul Shivers]] and [[#Gwynn Wildhair]] were slain, while [[#Jolly Yon Cumber]], [[#Thekkris Steepfield]], and [[#Red Gwyndala]] were captured. The two jarls bent the knee and agreed to serve under [[#Bjorn Bloodless]] to avoid further bloodshed. [[#Red Gwyndala]], however, refused the offer and, with the help of [[#Rudd Threetrees]], managed to escape her captivity. 
+Under the rule of [[#Gwynn Wildhair]], the capital was in the west, in Norheim. She strived for peaceful trade with [[The Dominion]] but that didn't sit well in the east of Fjaerheim, which didn't have many places to do trade with. [[#Bjorn Bloodless]] took advantage of this unrest and started a rebellion in the east. First he overthrew the leadership of Holmstad by defeating [[#White-eye Hansul]] in the circle, and recruiting him to his cause. Without much resistance he swept through Uffrith and Lillefest, and gained the support of [[#Durinnri Golden]] in his defiance of [[#Gwynn Wildhair|Queen Wildhair]]. 
+
+In the meantime the Queen gathered her forces in the west. [[#Jolly Yon Cumber]], [[#Thekkris Steepfield]], and [[#Caul Shivers]] all rallied behind her to meet the rebellion head on. The two forces met in High Place Pass where their battle raged on for three days and three nights, until, at the dawn of the fourth day, [[#Stranger-Come-Knocking]] arrived from The Frigid Isles.
+
+He attacked the left flank and managed to cut through the front lines, outflanking and decimating the Queen's exhausted forces. Both [[#Caul Shivers]] and [[#Gwynn Wildhair]] were slain, while [[#Jolly Yon Cumber]], [[#Thekkris Steepfield]], and [[#Red Gwyndala]] were captured. The two jarls bent the knee and agreed to serve under [[#Bjorn Bloodless]] to avoid further bloodshed. [[#Red Gwyndala]], however, refused the offer and, with the help of [[#Rudd Threetrees]], managed to escape her captivity. 
 

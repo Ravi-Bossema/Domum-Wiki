@@ -27,12 +27,6 @@ Loki is the embodiment of [[Alignment#Chaotic|Chaotic]] [[Alignment#Evil|Evil]],
 
 ## Fjaerheim
 
-## Niw Nathifa
-
-## Pantanal
-
-## The Dominion
-
 
 # History
 
